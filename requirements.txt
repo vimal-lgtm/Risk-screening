@@ -1,7 +1,0 @@
-streamlit
-requests
-beautifulsoup4
-fpdf2
-pandas
-python-whois
-plotly
